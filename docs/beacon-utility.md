@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # プライバシーポリシー - Beacon Utility
 
 最終更新日: 2026年4月13日
